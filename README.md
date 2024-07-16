@@ -1,5 +1,6 @@
 # E-Commerce website 
 This website is made using React and Tailwind CSS. Only frontend is completed till now where you can see products on home page. On clicking a product there is a product page. Specific user and admin dashboards are there. There is a cart page where you can see the items added to the cart. There is a search bar too which filters the categories based on the input you give.
+
 ![image](https://github.com/itstanisha04/E-com-website/assets/76450567/d5b2670b-aded-4084-946b-0dcaa10beb87)
 ![image](https://github.com/itstanisha04/E-com-website/assets/76450567/28367269-0a28-412a-a08a-3ef5e067be19)
 ![image](https://github.com/itstanisha04/E-com-website/assets/76450567/ae568c40-61cc-4c66-a4fe-57657184b6ac)
